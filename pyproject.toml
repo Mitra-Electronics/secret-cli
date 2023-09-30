@@ -1,9 +1,9 @@
 [tool.poetry]
 name = "secret-cli"
-version = "0.0.0"
+version = "0.0.1"
 description = ""
 authors = ["Mitra-Electronics <ishanmitra020@gmail.com>"]
-readme = "README.rst"
+readme = "README.md"
 packages = [{include = "secret_cli"}]
 
 [tool.poetry.dependencies]
